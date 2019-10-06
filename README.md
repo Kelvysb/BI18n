@@ -7,11 +7,11 @@ Install:
 
 Package manager:
 ```
-  PM> Install-Package kelvysb.BI18n
+  PM> Install-Package BI18n
  ```
 .Net CLI:
 ```
-  dotnet add package kelvysb.BI18n
+  dotnet add package BI18n
 ```
 Usage:
 
